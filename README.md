@@ -4,10 +4,10 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(July 18, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Pedro Fontanez)
 
 ### Project Description:
 (In your own words, briefly describe the assignment.)
